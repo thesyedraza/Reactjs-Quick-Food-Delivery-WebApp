@@ -17,11 +17,11 @@ class Footer extends Component {
                             </div>
                             <div className="footer-list-div">
                                 <ul>
-                                    <li><a href="#">Karachi</a></li>
-                                    <li><a href="#">Lahore</a></li>
-                                    <li><a href="#">Islamabad</a></li>
-                                    <li><a href="#">Rawalpindi</a></li>
-                                    <li><a href="#">Multan</a></li>
+                                    <li><a href="#">Delware</a></li>
+                                    <li><a href="#">Newyork</a></li>
+                                    <li><a href="#">Florida</a></li>
+                                    <li><a href="#">New Jersey</a></li>
+                                    <li><a href="#">Sheriden</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -137,7 +137,7 @@ class Footer extends Component {
                 {/* Footer Copyright Section */}
                 <div className="container">
                     <div className="col-12 footer-copyright">
-                        <p>© 2019 Quick Food. All Rights Reserved. Powered By <span style={{ color: "#eb6825", fontWeight: 700 }}>Fahad Ahmed</span></p>
+                        <p>© 2019 Quick Food. All Rights Reserved. Powered By <span style={{ color: "#eb6825", fontWeight: 700 }}>SYED RAZA</span></p>
                     </div>
                 </div>
             </div>
